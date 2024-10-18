@@ -1,4 +1,4 @@
-""" Exercise 2: Simple Sums 
+""" Exercise 2: Simple Sums
 
 In this exercise, you will create and work with integer variables, perform arith-
 metic operations, and print the result to the console.
