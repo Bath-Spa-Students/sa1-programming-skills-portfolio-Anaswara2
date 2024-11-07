@@ -13,17 +13,21 @@ for i in range(0,51,1):
     print(i)
 
 #Write a loop that counts down from 50 to 0 in decrements of 1.
+print("Displaying numbers from 0 to 50 in descending order")
 for n in range(50,-1,-1):
     print(n)
 
 #Write a loop that counts up from 30 to 50 in increments of 1.
+print("Displaying numbers from 30 to 50")
 for s in range(30,51,1):
     print(s)
 
 #Write a loop that counts down from 50 to 10 in decrements of 2.
+print("Displaying numbers from 10 to 50 in descending order with increase of 2 after each number")
 for a in range(50,9,-2):
     print(a)
 
 #Write a loop that counts up from 100 to 200 in increments of 5.
+print("Displaying numbers from 100 to 200 with increase of 5 after each number")
 for h in range(100,201,5):
     print(h)
